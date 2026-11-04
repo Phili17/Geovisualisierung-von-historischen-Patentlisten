@@ -1,0 +1,39 @@
+name: bachelorarbeit
+channels:
+  - defaults
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - brotlicffi=1.0.9.2=py313h6d0c2b6_1
+  - bzip2=1.0.8=h6c40b1e_6
+  - ca-certificates=2025.7.15=hecd8cb5_0
+  - certifi=2026.10.19=pyhd3eb1b0_1
+  - cffi=1.17.1=py313h9205ec4_1
+  - charset-normalizer=3.3.2=pyhd3eb1b0_0
+  - expat=2.7.1=h6d0c2b6_0
+  - idna=3.7=py313hecd8cb5_0
+  - libcxx=19.1.7=haebbb44_3
+  - libffi=3.4.4=hecd8cb5_1
+  - libmpdec=4.0.0=h46256e1_0
+  - ncurses=6.5=h923df54_0
+  - openssl=3.0.17=hee2dfae_0
+  - pip=26.2.2=pyhc872135_0
+  - pycparser=2.21=pyhd3eb1b0_0
+  - pysocks=1.7.1=py313hecd8cb5_0
+  - python=3.13.5=h81a7116_100_cp313
+  - python_abi=3.13=0_cp313
+  - readline=8.3=h49f2429_0
+  - requests=2.32.4=py313hecd8cb5_0
+  - setuptools=78.1.1=py313hecd8cb5_0
+  - sqlite=3.50.2=hc8b0dd6_1
+  - tk=8.6.15=h3a5a201_0
+  - tzdata=2026c=he532380_0
+  - urllib3=2.5.0=py313hecd8cb5_0
+  - wheel=0.45.1=py313hecd8cb5_0
+  - xz=5.6.4=h46256e1_1
+  - zlib=1.2.13=h4b97444_1
+  - pip:
+      - click==8.5.0
+      - jiwer==4.0.0
+      - rapidfuzz==3.14.6
+prefix: /opt/anaconda3/envs/bachelorarbeit
