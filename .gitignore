@@ -4,6 +4,11 @@
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
 Rohdaten_Preprocessing/farbscans_treffer
+Vorexperimente_OCR_Qualitaet/spalten_ocr
+Vorexperimente_OCR_Qualitaet/stichprobe_1919
+.vscode
+.DS_Store
+Ordnerstruktur.txt
 
 # User-specific files
 *.rsuser
