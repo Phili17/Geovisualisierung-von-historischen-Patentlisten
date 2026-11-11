@@ -1,0 +1,24 @@
+Januar: Mon: https://digi.bib.uni-mannheim.de/periodika/reichsanzeiger/ocr/film/tesseract-5.0.0-20211201/1919-01-02--1921-12-31---001-021/001-8961/0043.hocr
+Januar: Thu: https://digi.bib.uni-mannheim.de/periodika/reichsanzeiger/ocr/film/tesseract-5.0.0-20211201/1919-01-02--1921-12-31---001-021/001-8961/0066.hocr
+Februar: Mon: https://digi.bib.uni-mannheim.de/periodika/reichsanzeiger/ocr/film/tesseract-5.0.0-20211201/1919-01-02--1921-12-31---001-021/001-8961/0265.hocr
+Februar: Thu: https://digi.bib.uni-mannheim.de/periodika/reichsanzeiger/ocr/film/tesseract-5.0.0-20211201/1919-01-02--1921-12-31---001-021/001-8961/0298.hocr
+März: Mon: https://digi.bib.uni-mannheim.de/periodika/reichsanzeiger/ocr/film/tesseract-5.0.0-20211201/1919-01-02--1921-12-31---001-021/002-8962/0135.hocr
+März: Thu: https://digi.bib.uni-mannheim.de/periodika/reichsanzeiger/ocr/film/tesseract-5.0.0-20211201/1919-01-02--1921-12-31---001-021/001-8961/0652.hocr
+April: Mon: https://digi.bib.uni-mannheim.de/periodika/reichsanzeiger/ocr/film/tesseract-5.0.0-20211201/1919-01-02--1921-12-31---001-021/002-8962/0215.hocr
+April: Thu: https://digi.bib.uni-mannheim.de/periodika/reichsanzeiger/ocr/film/tesseract-5.0.0-20211201/1919-01-02--1921-12-31---001-021/002-8962/0352.hocr
+Mai: Mon:
+Mai: Thu:
+Juni: Mon: https://digi.bib.uni-mannheim.de/periodika/reichsanzeiger/ocr/film/tesseract-5.0.0-20211201/1919-01-02--1921-12-31---001-021/003-8963/0021.hocr
+Juni: Thu: https://digi.bib.uni-mannheim.de/periodika/reichsanzeiger/ocr/film/tesseract-5.0.0-20211201/1919-01-02--1921-12-31---001-021/003-8963/0079.hocr
+Juli: Mon:
+Juli: Thu:
+August: Mon: https://digi.bib.uni-mannheim.de/periodika/reichsanzeiger/ocr/film/tesseract-5.0.0-20211201/1919-01-02--1921-12-31---001-021/004-8964/0163.hocr
+August: Thu: https://digi.bib.uni-mannheim.de/periodika/reichsanzeiger/ocr/film/tesseract-5.0.0-20211201/1919-01-02--1921-12-31---001-021/004-8964/0063.hocr
+September: Mon: https://digi.bib.uni-mannheim.de/periodika/reichsanzeiger/ocr/film/tesseract-5.0.0-20211201/1919-01-02--1921-12-31---001-021/004-8964/0406.hocr
+September: Thu: https://digi.bib.uni-mannheim.de/periodika/reichsanzeiger/ocr/film/tesseract-5.0.0-20211201/1919-01-02--1921-12-31---001-021/004-8964/0451.hocr
+Oktober: Mon: https://digi.bib.uni-mannheim.de/periodika/reichsanzeiger/ocr/film/tesseract-5.0.0-20211201/1919-01-02--1921-12-31---001-021/005-8965/0020.hocr
+Oktober: Thu: https://digi.bib.uni-mannheim.de/periodika/reichsanzeiger/ocr/film/tesseract-5.0.0-20211201/1919-01-02--1921-12-31---001-021/005-8965/0354.hocr
+November: Mon: https://digi.bib.uni-mannheim.de/periodika/reichsanzeiger/ocr/film/tesseract-5.0.0-20211201/1919-01-02--1921-12-31---001-021/005-8965/0394.hocr
+November: Thu: https://digi.bib.uni-mannheim.de/periodika/reichsanzeiger/ocr/film/tesseract-5.0.0-20211201/1919-01-02--1921-12-31---001-021/005-8965/0589.hocr
+Dezember: Mon: https://digi.bib.uni-mannheim.de/periodika/reichsanzeiger/ocr/film/tesseract-5.0.0-20211201/1919-01-02--1921-12-31---001-021/006-8966/0146.hocr
+Dezember: Wed: https://digi.bib.uni-mannheim.de/periodika/reichsanzeiger/ocr/film/tesseract-5.0.0-20211201/1919-01-02--1921-12-31---001-021/006-8966/0369.hocr

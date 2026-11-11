@@ -1,0 +1,7 @@
+Vorexperimente
+
+Rohdaten-Preprocessing
+  - farbscans crawlen
+  - VisionLLM-OCR automatisieren
+
+Geovisualisierung
