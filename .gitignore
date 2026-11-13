@@ -3,7 +3,10 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
-Rohdaten_Preprocessing/farbscans_treffer
+Gather_data/farbscans_treffer
+Gather_data/farbscans_tesseract
+Gather_data/farbscans_vlm
+ocr_ergebnisse
 Vorexperimente_OCR_Qualitaet/spalten_ocr
 Vorexperimente_OCR_Qualitaet/stichprobe_1919
 .vscode
